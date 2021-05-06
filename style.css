@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+*{
+    margin: 2px;
+    padding: 10px
+}
+
+body{
+    font-family: 'Itim', cursive;
+    text-align: center;
+    background-image: url("https://www.fda.gov/files/covid19-1600x900.jpg")
+}
+form{
+    background-color: pink;
+    margin: 2% 10%;
+    padding: 50px;
+    opacity: 0.8;
+    border-radius: 20px;
+}
+h1{
+    color: yellow;
+    font-size: 50px
+}
+#button{
+    color: black;
+    background-color: red;
+    padding: 8px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+label{
+    font-size: 20px;
+}
